@@ -1,0 +1,30 @@
+Link para dawnload do Git: https://git-scm.com/downloads
+
+###########################################################################################
+Comandos básicos para Unix:
+-CD:
+-ls;
+-mkdir
+-rm-rf
+###########################################################################################
+
+SHA1 -> Algoritimo, conjunto de funções hash; Encriptação com identificador de 40 dígitos, sendo uma forma curta de  representar um arquivo
+
+-Blobls -> Armazena SHA1
+-Trees -> Armazena Blob
+-Commits -> Aponta para as árvores
+###########################################################################################
+
+Chaves SSH/ Tokens
+
+Chave SSH -> Conexão segura tendo uma chave pública e outra privada
+
+###########################################################################################
+
+Primeiros Aprendizados de Git
+
+#Iniciar o Git -> git init
+#Iniciar versionamento -> git add
+#Criar um commit -> git commit
+
+###########################################################################################

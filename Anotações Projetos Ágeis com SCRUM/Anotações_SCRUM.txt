@@ -1,0 +1,34 @@
+SCRUM
+
+Método Tradicional(Waterfall):
+#Escopo na fase inicial do Projeto(Preditivo)
+#Fases e Marcos
+#Cliente vê o softwere apenas ao final do Projeto
+#Resistência a mudanças
+
+Ágil:
+#Adaptativo
+#Funcionalidades entregues
+#Parte do Softwere já apresentado nos primeiros meses
+#Mudanças constantes
+
+SCRUM -> Fremework de gerenciamento de Projetos ágeis
+->Grupos pequenos e mlultidisciplinares
+
+Pilares-> Tranparência; Adaptação e Inspeção
+
+######################################################
+
+Papéis e Responsábilidades:
+
+Product Owner(PO):
+#Área de Negócios
+#Define as Funcionalidades
+
+SCRUM Master(SM):
+#Garante o uso correto do SCRUM
+
+Time de Desenvolvimento:
+#Desenvolver; testar; Criar e Desenhar
+
+#####################################################
